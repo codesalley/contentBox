@@ -8,3 +8,4 @@ import './assets/scripts/glide/glide.js';
 import './contentbox/lang/en.js';
 import './contentbuilder/contentbuilder.min.js';
 import './box/box';
+import './contentbox/contentbox.min';
